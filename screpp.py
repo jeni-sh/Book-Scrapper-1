@@ -4,8 +4,8 @@
 #git config --global user.name "Jenny Shah"
 #git config --global user.email "zennishah555@gmail.com"
 
-import sqlite3
 import requests
+import sqlite3
 from bs4 import BeautifulSoup 
 
 URL="https://books.toscrape.com/"

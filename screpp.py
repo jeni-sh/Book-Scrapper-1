@@ -4,6 +4,31 @@
 #git config --global user.name "Jenny Shah"
 #git config --global user.email "zennishah555@gmail.com"
 
+
+#GIT TUTORIAL
+#install git
+#create repository hub
+
+#got o bash or terminal
+#git config --global user.name "Jenny shah"
+#git config --global user.email "zennishah@..."
+
+#git init
+#git status => if you want to check what are the status of files
+#git diff =>if you want to check what are the changes
+# git add . => filr track
+# git commit -m "Your message"
+# copy paste git code from github
+# 
+# ################################
+# 1. change the code
+# 2. git add
+# 3.git commit -m "your message"
+# 4. git push origin
+
+##################################
+
+ 
 import requests
 import sqlite3
 from bs4 import BeautifulSoup 
